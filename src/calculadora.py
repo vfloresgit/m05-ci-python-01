@@ -38,3 +38,4 @@ def potencia(base, exponente):
 
 def modulo(a, b):
     return a % b
+
